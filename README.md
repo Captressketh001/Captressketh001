@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Captressketh001
+- 👋 Hi, I’m Captressketh
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on projects that will help my problem solving abilities
