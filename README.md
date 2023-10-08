@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Oluwakemi</h1>
 
-<h3 align="center">I am a solution-oriented and result-driven Software Engineer from Nigeria who combines technical expertise, creativity, collaboration, and a passion for leveraging technology to address real-world challenges. My focus is always on achieving measurable results. I set clear objectives, define key performance indicators (KPIs), and track progress to ensure that the solutions I build have a tangible and positive impact. I don't just code, I build solutions.</h3>
+<img src="https://drive.google.com/file/d/1QVRzYNNJ9euT50AgCTmAa8Z3yP2K7Vo0/view">
+
+<h3 align="center">I am a solution-oriented and result-driven Software Engineer from Nigeria who combines technical expertise, creativity, collaboration, and a passion for leveraging technology to address real-world challenges.</h3>
 
 
 
