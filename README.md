@@ -5,6 +5,7 @@
 - 📫 How to reach me @cap_keth on twitter.'
 
 - [![Captress's GitHub stats](https://github-readme-stats.vercel.app/api?username=Captressketh001)](https://github.com/anuraghazra/github-readme-stats)
+- ![Captress GitHub stats](https://github-readme-stats.vercel.app/api?username=Captressketh001&show_icons=true&theme=radical)
 
 <!---
 Captressketh001/Captressketh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
