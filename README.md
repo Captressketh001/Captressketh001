@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/cap_keth" target="blank"><img src="https://img.shields.io/twitter/follow/cap_keth?logo=twitter&style=for-the-badge" alt="cap_keth" /></a> </p>
 
-<h3 align="center">I'm interested in Job offers, collaboration on projects and contributing to open source</h3>
+<h3 align="left">I'm interested in Job offers, collaboration on projects and contributing to open source</h3>
 
-<h3 align="center">If you'd like me to come work on one of your projects, you can reach me on:</h3>
+<h3 align="left">If you'd like me to come work on one of your projects, you can reach me on:</h3>
 
 <p align="left">
 <a href="https://twitter.com/cap_keth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cap_keth" height="30" width="40" /></a>
