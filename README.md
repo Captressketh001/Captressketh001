@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oluwakemi</h1>
 
-<img src="https://drive.google.com/file/d/1QVRzYNNJ9euT50AgCTmAa8Z3yP2K7Vo0/view">
+<img src="oluwakemi-git-cover.png">
 
 <h3 align="center">I am a solution-oriented and result-driven Software Engineer from Nigeria who combines technical expertise, creativity, collaboration, and a passion for leveraging technology to address real-world challenges.</h3>
 
